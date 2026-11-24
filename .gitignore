@@ -1,0 +1,11 @@
+# Secrets and local config
+.env
+application-local.properties
+*.pem
+*.jks
+
+# Build output and IDE files
+target/
+.idea/
+.vscode/
+*.class
